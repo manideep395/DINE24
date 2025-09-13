@@ -2,6 +2,7 @@
 # 🍽️ DINE24 - AI-Powered Restaurant Management System
 
 **Developer:** KASIREDDY MANIDEEP REDDY
+
 **🏆 Full Stack Web Application with Advanced AI Integration**
 
 ---
