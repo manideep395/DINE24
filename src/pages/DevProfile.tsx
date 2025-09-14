@@ -53,7 +53,7 @@ const DevProfile = () => {
               <div className="w-32 h-32 mx-auto mb-4 bg-royal-gradient rounded-full flex items-center justify-center">
                 <Code className="h-16 w-16 text-black" />
               </div>
-              <CardTitle className="text-royal-subtitle">Bhavya Reddy Mamidala</CardTitle>
+              <CardTitle className="text-royal-subtitle">Kasireddy Manideep Reddy</CardTitle>
               <p className="text-muted-foreground">Full Stack Developer</p>
             </CardHeader>
             <CardContent className="space-y-4">
@@ -70,7 +70,7 @@ const DevProfile = () => {
               </div>
               <div className="text-center">
                 <p className="text-sm text-muted-foreground">
-                  bhavyareddy.mamidala@gmail.com
+                  kasireddymanideepreddy405@gmail.com
                 </p>
               </div>
             </CardContent>

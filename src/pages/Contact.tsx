@@ -49,7 +49,7 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  +91 91333 35476<br />
+                  +91 9390424085<br />
                   Available 24/7 for reservations
                 </p>
               </CardContent>
@@ -64,7 +64,7 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  bhavyareddy.mamidala@gmail.com<br />
+                  kasireddymanideepreddy405@gmail.com<br />
                   We'll get back to you within 24 hours
                 </p>
               </CardContent>
