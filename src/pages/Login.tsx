@@ -14,7 +14,7 @@ const Login = () => {
 
   const handleAdminLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    if (adminCredentials.username === "admindine24" && adminCredentials.password === "bhavyagit") {
+    if (adminCredentials.username === "mani@395" && adminCredentials.password === "mani@395") {
       localStorage.setItem("adminAuth", "true");
       navigate("/admin/dashboard");
     } else {
@@ -88,8 +88,8 @@ const Login = () => {
             <div className="bg-muted/50 p-4 rounded-lg text-center">
               <p className="text-xs text-muted-foreground">
                 Demo Credentials:<br />
-                Username: <span className="text-royal-gold">admindine24</span><br />
-                Password: <span className="text-royal-gold">bhavyagit</span>
+                Username: <span className="text-royal-gold">mani@395</span><br />
+                Password: <span className="text-royal-gold">mani@395</span>
               </p>
             </div>
           </CardContent>
